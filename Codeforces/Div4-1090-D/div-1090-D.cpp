@@ -7,7 +7,7 @@
 #include <set>
 #include <stack>
 #include <cmath>
-#include<numeric>
+#include<numeric> 
 using namespace std;
  
 #define ll long long
